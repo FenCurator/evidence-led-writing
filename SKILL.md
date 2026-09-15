@@ -2,7 +2,7 @@
 name: evidence-led-writing
 description: Write engaging reports with evidence-calibrated claims.
 version: 1.1.0
-author: FenCurator (FenCurator), Hermes Agent
+author: Community contributors, Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
 metadata:
